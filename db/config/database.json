@@ -1,0 +1,10 @@
+{
+    "username": "postgres",
+    "password": "0000",
+    "port": 5433,
+    "host": "localhost",
+    "database": "steppi_dev",
+    "dialect": "postgres",
+    "timezone": "utc",
+    "logging": false
+}
