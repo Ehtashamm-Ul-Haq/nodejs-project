@@ -1,7 +1,7 @@
 var express = require('express');
 require('dotenv').config()
-require('./db')
-var indexRouter = require('./routes/index');
+require('./src/db')
+var indexRouter = require('./src/routes');
 
 var app = express();
 
